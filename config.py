@@ -1,0 +1,4 @@
+MODEL_PATH = "models/best.pt"
+CONFIDENCE = 0.3
+IMG_SIZE = 720
+CAMERA_INDEX = 1
