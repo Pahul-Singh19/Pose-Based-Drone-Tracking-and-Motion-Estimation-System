@@ -139,7 +139,7 @@ python main.py
 ## 🔧 Key Configuration
 
 CONFIDENCE = 0.3  
-IMG_SIZE = 480  
+IMG_SIZE = 720  
 CAMERA_INDEX = 0  
 
 ---
