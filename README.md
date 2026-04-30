@@ -3,7 +3,7 @@
 
 
 
-Real-time drone tracking system using **Pose estimation + Kalman filtering**. Detects structural keypoints of a DM002 drone, estimates orientation, tracks motion, and predicts trajectory using a state-space model. Designed for deployment on **Jetson Nano (Edge AI)**.
+Real-time drone tracking system using **Pose estimation + Kalman filtering**. Detects structural keypoints of a DM002 drone, estimates orientation, tracks motion, and predicts trajectory using a state-space model. 
 
 ---
 
