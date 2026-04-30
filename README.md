@@ -161,7 +161,14 @@ Student: Pahul Singh
 
 ## 📚 References
 
-Ultralytics YOLOv8  
-Kalman Filter (1960)  
-Roboflow  
-OpenCV  
+Ultralytics YOLOv8
+YOLOv3: An Incremental Improvement
+YOLOv4: Optimal Speed and Accuracy of Object Detection
+A New Approach to Linear Filtering and Prediction Problems
+An Introduction to the Kalman Filter
+Microsoft COCO: Common Objects in Context
+Roboflow Annotate — Keypoint Annotation and Dataset Management Tool
+Jetson Nano Developer Kit Technical Reference Manual
+The OpenCV Library
+Simple Online and Realtime Tracking (SORT)
+DM002 DIY Drone Kit
